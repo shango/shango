@@ -1,4 +1,4 @@
-## Experience
+## About
 
 I’m a former VFX artist now transitioning into technical writing, building on over a decade of experience documenting complex production workflows in fast-paced visual effects environments.
 
